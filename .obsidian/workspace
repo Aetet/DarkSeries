@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "cc2116c95d4e32e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "daae7ca2a99d7af0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Эрик.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9144138402dd8994",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4692ef3caf1280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e767b9d93d81834b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef79b0fea84b9b71",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f6f09e043a3153a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0daad5748880fc15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc657d46a758964",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "тело ребенка в лесу.md",
+    "Миккель.md",
+    "Магнус.md",
+    "Жена Ульриха.md"
+  ]
+}
